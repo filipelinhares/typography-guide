@@ -85,3 +85,15 @@
 - Not so great for body text, is difficulty to ready
 - Strokes reminiscent of pen or paint brush
 - Often slanted
+
+## Typeface Mixing
+
+1. Don't choose two fonts from the same style (humanist, geometric, etc).
+2. Don't choose two fonts from the same class (serif, sans-serif).
+
+*Choose fonts that share one thing in common but are otherwise different, like humanist serif and humanist sans.
+And that trait can even be largely abstract, like a transitional serif and a humanist sans*
+
+All in all, you should strive for contrast over harmony. A good rule to thumb to follow, when mixing typefaces is keep it the same or change a lot, look for emphatic differences rather than mushy transitions.
+
+Don't feel obligated to pick two fonts for your project, a simple typeface is often enough. And this for beginner is the ideal, you can practice and learn more using different weights before try to incorporate many others typefaces.
