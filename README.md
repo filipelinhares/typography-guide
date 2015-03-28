@@ -186,3 +186,10 @@ Here's a table with whats size i'm using
 - [Typecast](http://typecast.com)
 - [Vertical Rhythm](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm)
 - [Modular Scale](http://alistapart.com/article/more-meaningful-typography)
+
+## Credits
+- [Size's table](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+- [Images](http://designerscultureguide.com/typeface/)
+
+## License
+[MIT](LICENSE.md) © Filipe LInhares
