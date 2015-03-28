@@ -117,49 +117,49 @@ Don't feel obligated to pick two fonts for your project, a simple typeface is of
 
 Here's a table with whats size i'm using
 #### Body
-|Size|Font Size|Line Height|Characters|
-|--           |---|---|---|
-|Print        | 12pt       | 1.25em  | 60-75 |
-|Desktop (lg) | 1em (16px) | 1.375em | 60-75 |
-|Desktop      | 1em (16px) | 1.375em | 60-75 |
-|Tablet (lg)  | 1em (16px) | 1.375em | 60-75 |
-|Tablet (sm)  | 1em (16px) | 1.25em  | 60-75 |
-|Phone        | 1em (16px) | 1.25em  | 35-40 |
+|Size         |Font Size   |Line Height |Characters|
+|-------------|-----------:|-----------:|---------:|
+|Print        | 12pt       | 1.25em     | 60-75    |
+|Desktop (lg) | 1em (16px) | 1.375em    | 60-75    |
+|Desktop      | 1em (16px) | 1.375em    | 60-75    |
+|Tablet (lg)  | 1em (16px) | 1.375em    | 60-75    |
+|Tablet (sm)  | 1em (16px) | 1.25em     | 60-75    |
+|Phone        | 1em (16px) | 1.25em     | 35-40    |
 
 #### H1
-|Size|Font Size|Line Height|
-|--           |---|---|---|
-|Print        | 36pt         | 1.25em  |
-|Desktop (lg) | 3em (48px)   | 1.05em  |
-|Desktop      | 3em (48px)   | 1.05em  |
-|Tablet (lg)  | 2.5em (40px) | 1.125em |
-|Tablet (sm)  | 2em (32px)   | 1.25em  |
-|Phone        | 2em (32px)   | 1.25em  |
+|Size         |Font Size     |Line Height|
+|-------------|-------------:|----------:|
+|Print        | 36pt         | 1.25em    |
+|Desktop (lg) | 3em (48px)   | 1.05em    |
+|Desktop      | 3em (48px)   | 1.05em    |
+|Tablet (lg)  | 2.5em (40px) | 1.125em   |
+|Tablet (sm)  | 2em (32px)   | 1.25em    |
+|Phone        | 2em (32px)   | 1.25em    |
 
 #### H2
-|Size|Font Size|Line Height|
-|--           |---|---|---|
+|Size         |Font Size        |Line Height   |
+|-------------|----------------:|-------------:|
 |Print        | 24pt            | 1.25em       |
 |Desktop (lg) | 2.25em (36px)   | 1.25em       |
 |Desktop      | 2.25em (36px)   | 1.25em       |
-|Tablet (lg)  | 2em (32px)      | 1.25em 			 |
+|Tablet (lg)  | 2em (32px)      | 1.25em       |
 |Tablet (sm)  | 1.625em (26px)  | 1.15384615em |
 |Phone        | 1.625em (26px)  | 1.15384615em |
 
 #### H3
-|Size|Font Size|Line Height|
-|--           |---|---|---|
-|Print        | 18pt           | 1.25em  			|
-|Desktop (lg) | 1.75em (28px)  | 1.25em  			|
-|Desktop      | 1.75em (28px)  | 1.25em  			|
+|Size         |Font Size       |Line Height   |
+|-------------|---------------:|-------------:|
+|Print        | 18pt           | 1.25em       |
+|Desktop (lg) | 1.75em (28px)  | 1.25em       |
+|Desktop      | 1.75em (28px)  | 1.25em       |
 |Tablet (lg)  | 1.5em (24px)   | 1.25em       |
 |Tablet (sm)  | 1.375em (22px) | 1.13636364em |
 |Phone        | 1.375em (22px) | 1.13636364em |
 
 #### H4
 |Size|Font Size|Line Height|
-|--           |---|---|---|
-|Print        | 14pt             | 1.25em  			|
+|-------------|-----------------:|-------------:|
+|Print        | 14pt             | 1.25em  	|
 |Desktop (lg) | 1.125em (18px)   | 1.22222222em |
 |Desktop      | 1.125em (18px)   | 1.22222222em |
 |Tablet (lg)  | 1.125em (18px)   | 1.22222222em |
@@ -167,8 +167,8 @@ Here's a table with whats size i'm using
 |Phone        | 1.125em (18px)   | 1.11111111em |
 
 #### Bloquote
-|Size|Font Size|Line Height|
-|--           |---|---|---|
+|Size         |Font Size       |Line Height   |
+|-------------|---------------:|-------------:|
 |Print        | 24pt           | 1.45833333em |
 |Desktop (lg) | 1.5em (24px)   | 1.45833333em |
 |Desktop      | 1.5em (24px)   | 1.45833333em |
