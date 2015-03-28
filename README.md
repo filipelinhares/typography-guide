@@ -180,3 +180,9 @@ Here's a table with whats size i'm using
 
 - Using too much bold can muddy your hierarchy.
 - Make sure the bold and italic complement the default value.
+
+## Tools and further reading
+
+- [Typecast](http://typecast.com)
+- [Vertical Rhythm](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm)
+- [Modular Scale](http://alistapart.com/article/more-meaningful-typography)
