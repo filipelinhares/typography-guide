@@ -1,4 +1,4 @@
-# No apps for old fonts
+![Typography guide](images/logo.png)
 > Some tips to keep your typography consistent
 
 ## Fonts
@@ -29,7 +29,7 @@
 - More contrasting strokes
 - Structure clear and elegant
 - Appropriate for easy, skimming reading
-	
+
 *Great for arts and culture applications*
 
 ##### Slab
@@ -190,9 +190,6 @@ Here's a table with whats size i'm using
 ## Credits
 - [Size's table](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - [Images](http://designerscultureguide.com/typeface/)
-
-## Why this name?
-My repositories's name are inspired in movies's name.
 
 ## License
 [MIT](LICENSE.md) © Filipe LInhares
