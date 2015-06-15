@@ -6,13 +6,13 @@
 ### Serif
 
 ##### Humanist
-![Humanist](images/humanist-serif.jpg)
+![Humanist](images/humanist-serif.png)
 - Contrasting strokes- Classic and traditional
 
 *Great for journalism or historical applications*
 
 ##### Transitional
-![Transitional](images/transitional-serif.jpg)
+![Transitional](images/transitional-serif.png)
 
 - Sharper serif
 - Strong, stylish and dynamic
@@ -23,7 +23,7 @@
 *Great for traditional academic and legal applications*
 
 ##### Modern
-![Modern](images/modern-serif.jpg)
+![Modern](images/modern-serif.png)
 
 - Thin horizontal serif
 - More contrasting strokes
@@ -33,7 +33,7 @@
 *Great for arts and culture applications*
 
 ##### Slab
-![Slab](images/slab-serif.jpg)
+![Slab](images/slab-serif.png)
 
 - Heavy boxy serifs
 - Very low contrast stroke
@@ -47,7 +47,7 @@
 ### Sans-serif
 
 ##### Humanist
-![Humanist](images/humanist-sans.jpg)
+![Humanist](images/humanist-sans.png)
 
 - Contrasting strokes
 - Transition between the perfect and the imperfect
@@ -56,7 +56,7 @@
 *Great for government or educational applications*
 
 ##### Transitional
-![Transitional](images/transitional-sans.jpg)
+![Transitional](images/transitional-sans.png)
 
 - Strong strokes
 - Upright, uniform characters
@@ -68,7 +68,7 @@
 *Great for technology and transportation applications*
 
 ##### Geometric
-![Geometric](images/geometric.jpg)
+![Geometric](images/geometric.png)
 
 - Geometric shapes form the backbones of the letters
 - Strict, objective and universal feel
@@ -80,7 +80,7 @@
 
 
 ### Script
-![Script font](images/script.jpg)
+![Script font](images/script.png)
 - Great for adding a human element to the website
 - Not so great for body text, is difficulty to ready
 - Strokes reminiscent of pen or paint brush
@@ -189,7 +189,6 @@ Here's a table with whats size i'm using
 
 ## Credits
 - [Size's table](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
-- [Images](http://designerscultureguide.com/typeface/)
 
 ## License
 [MIT](LICENSE.md) © Filipe LInhares
