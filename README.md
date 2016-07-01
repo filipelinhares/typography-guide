@@ -112,10 +112,12 @@ Don't feel obligated to pick two fonts for your project, a simple typeface is of
 ### Line width
 *Keep 50 to 70 characters per line including spaces id ideal.*
 
+## Weights
 
-- - -
+- Using too much bold can muddy your hierarchy.
+- Make sure the bold and italic complement the default value.
 
-Here's a table with whats size i'm using
+Here's a table with size examples:
 #### Body
 |Size         |Font Size   |Line Height |Characters|
 |-------------|-----------:|-----------:|---------:|
@@ -175,11 +177,6 @@ Here's a table with whats size i'm using
 |Tablet (lg)  | 1.5em (24px)   | 1.45833333em |
 |Tablet (sm)  | 1.25em (20px)  | 1.25em       |
 |Phone        | 1.25em (20px)  | 1.25em       |
-
-## Weights
-
-- Using too much bold can muddy your hierarchy.
-- Make sure the bold and italic complement the default value.
 
 ## Tools and further reading
 
